@@ -1,0 +1,55 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+   display: flex;
+   gap: 50px; 
+}
+.t1{
+    text-align: center;
+}
+div img{
+    width:393px ;
+    height: 230px;
+}
+main{
+    display: flex;
+    justify-content: center;
+flex-wrap: wrap;
+gap: 50px;
+}
+div{
+   width: 393px;
+    height:396px ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.t2{
+text-align: center;
+}
+.t3{
+text-align: center;
+}
+.t4{
+    text-align: center;
+}
+.t5{
+    text-align: center;
+}
+.t6{
+    text-align: center;
+}
+.t7{
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+}
+main div{
+    text-align: center;
+}
